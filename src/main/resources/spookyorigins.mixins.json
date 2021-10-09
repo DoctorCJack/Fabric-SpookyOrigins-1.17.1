@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.doctorcjack.spookyorigins.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "SpookyOriginsMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
