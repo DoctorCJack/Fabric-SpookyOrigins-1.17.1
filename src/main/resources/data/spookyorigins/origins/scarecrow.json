@@ -1,0 +1,8 @@
+{
+  "powers": [
+    "origins:simple"
+  ],
+  "icon": "minecraft:hay_block",
+  "order": 1,
+  "impact": 1
+}

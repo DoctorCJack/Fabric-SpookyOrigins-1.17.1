@@ -1,0 +1,8 @@
+{
+  "powers": [
+    "origins:simple"
+  ],
+  "icon": "minecraft:jack_o_lantern",
+  "order": 1,
+  "impact": 1
+}
